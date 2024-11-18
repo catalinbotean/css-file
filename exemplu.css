@@ -1,0 +1,8 @@
+input::placeholder  {
+  font-size: 16;
+  font-family: "Rubik", sans-serif;
+}
+
+button#submitButton  {
+  background-color: #0a41fa;
+}
